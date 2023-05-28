@@ -45,13 +45,17 @@ In Second time, run the install executable app
 
 Then you are ready to try my Voice Assistant, run the "VoiceAssist" executable 
 
+ -- For the moment the exe file is too large for Github, until it is set up I invite you to use the python version --
+
+</details>
+<details>
+<summary>Support</summary>
+
+Discord: AdLaD#7397 Discord server : https://discord.gg/WGNHrc8cCd
+
 
 </details>
 
-
-
-
- 
 ## FR ##
 
 # Description
@@ -97,5 +101,13 @@ Dans cette version simplifiée, vous devez d'abord mettre votre clé API dans le
 Ensuite, lancé l'exécutable d'installation.
 
 Ensuite, vous êtes prêt à essayer mon assistant vocal, lancer le fichier exécutable "VoiceAssist".
+
+-- Pour le moment le fichier exe est trop volumineux pour Github, en attendant qu'il soit mis en place je vous invite a utiliser la version python --
+</details>
+<details>
+<summary>Support</summary>
+
+Discord: AdLaD#7397 Discord server : https://discord.gg/WGNHrc8cCd
+
 
 </details>
